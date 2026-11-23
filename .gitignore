@@ -1,0 +1,25 @@
+# Build outputs
+Build/
+Output/
+Documents/Leonida/
+*.obj
+*.dds
+*.ogg
+*.wav
+
+# Dependencies
+third_party/
+*.sln
+*.vcxproj
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
